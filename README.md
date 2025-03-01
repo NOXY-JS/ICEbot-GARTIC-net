@@ -3,12 +3,26 @@
 
 Como usar: 
 
-Para usar o bot, baixe o arquivo .ZIP presente no repositório e depois use algum navegador que possua suporte para extensões no seu celular (exemplo: Kiwi Browser, Firefox) e quando tiver instalado a extensão nele, vá para o gartic PWA e veja se funcionou. Depois instale o termux em seu celular para rodar o script, instale o Node.js no terminal e execute ``` git clone https://github.com/NOXY-JS/ICEbot-GARTIC-net.git ``` para clonar o repositório, então digite ```npm install ws``` para instalar as dependências e após isso ``` cd ICEbot-GARTIC-net ``` e execute o comando node ``` .load bot__.js ``` e o bot estará ativado para usar.
+Para usar o bot, baixe o arquivo .ZIP presente no repositório e depois use algum navegador que possua suporte para extensões no seu celular (exemplo: Kiwi Browser, Firefox) e quando tiver instalado a extensão nele, vá para o gartic PWA e veja se funcionou. Depois instale o termux em seu celular para rodar o script, instale o Node.js no terminal e execute 
+``` 
+git clone https://github.com/NOXY-JS/ICEbot-GARTIC-net.git
+```
+para clonar o repositório, então digite 
+```
+npm install ws
+``` para instalar as dependências e após isso ```
+cd ICEbot-GARTIC-net
+``` e execute o comando 
+```
+node
+.load bot__.js 
+```
+e o bot estará ativado para usar.
 
-Atualize a página do gartic e comece a usar o bot pra ver se funcionou.
+Atualize a página do gartic e comece a usar o bot para ver se funcionou.
 
 
-O bot só funcionará se o script de bot estiver rodando no terminal, caso contrário não terá efeito algum sobre o jogo.
+O bot só funcionará se o script de bot estiver rodando no terminal, caso contrário não terá efeito algum sobre o jogo. Você pode rodar o servidor no seu pc ou em outro dispositivo caso não queira rodar ele no termux pelo celular. Basta executar os mesmos passos citados anteriormente mas se você já tiver rodado o script anteriormente e instalado os pacotes não precisa rodar de novo, somente se você quiser atualizá-los.
 
 Esse script foi feito especificamente para os usuários do gartic de celular (Gartic PWA), mas ele também pode funcionar no outro porque os dois domínios (gartic.net e gartic.com.br) redirecionam ao mesmo jogo.
 
