@@ -10,9 +10,12 @@ git clone https://github.com/NOXY-JS/ICEbot-GARTIC-net.git
 para clonar o repositório, então digite 
 ```
 npm install ws
-``` para instalar as dependências e após isso ```
+```
+para instalar as dependências e após isso 
+```
 cd ICEbot-GARTIC-net
-``` e execute o comando 
+```
+ e execute o comando 
 ```
 node
 .load bot__.js 
