@@ -1,4 +1,4 @@
-Como usar: Para usar o bot, baixe o arquivo .ZIP presente
+Como usar: Para usar o bot, baixe o arquivo .ZIP presente\n
 no repositório e depois rode o script "bot__.js" no seu Node.js.
 Os comandos presentes nele: 
 REPORT: denuncia o desenho
