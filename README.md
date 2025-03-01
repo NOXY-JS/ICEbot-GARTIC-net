@@ -50,6 +50,24 @@ BROADCAST: envia mensagens em ambos os chats de resposta e de mensagem
 
 EXIT: remove os bots da sala
 
+Há ainda um script em python no repositório, você pode rodar ele para ver todas as salas incluindo a senha delas e se elas precisam de ser cadastrado para entrar ou não.
+Primeiro você deve instalar as dependências caso não tenha instalado ainda em seu terminal no python:
+
+```
+pip install requests
+pip install beautifulsoup4
+pip install cloudscraper
+```
+
+após fazer isso execute o script:
+
+```
+cd ICEbot-GARTIC-net
+python cf.py
+```
+
+E você poderá ver todas as salas e a senha delas toda vez que rodar esse script.
+
 Imagens do bot
 
 Listas de avatar
