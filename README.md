@@ -39,4 +39,10 @@ Listas de avatar
 ![Screenshot_20250301-124145_Kiwi Browser](https://github.com/user-attachments/assets/ca2ccfd2-f529-4260-a2ee-79c86a4b087e)
 ![Screenshot_20250301-124148_Kiwi Browser](https://github.com/user-attachments/assets/95250fbf-99bb-4aa9-985c-5de9ac947555)
 
+Usando os comandos dos botões
+
+![Screenshot_20250301-124130_Kiwi Browser](https://github.com/user-attachments/assets/4941c465-e019-424b-9774-a55638c0f72f)
+![Screenshot_20250301-124159_Kiwi Browser](https://github.com/user-attachments/assets/340905c2-6e0d-4865-a064-b729f292b61c)
+![Screenshot_20250301-124201_Kiwi Browser](https://github.com/user-attachments/assets/e340f105-65a4-4ade-8ed4-ab25297ff7b4)
+
 
