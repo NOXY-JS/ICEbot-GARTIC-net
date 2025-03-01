@@ -1,4 +1,4 @@
-Como usar: Para usar o bot, baixe o arquivo .ZIP presente no repositório e depois rode o script "bot__.js" no seu Node.js.
+Como usar: Para usar o bot, baixe o arquivo .ZIP presente no repositório e depois use algum navegador que possua suporte para extensões no seu celular (exemplo: Kiwi Browser, Firefox) e quando tiver instalado a extensão nele, vá para o gartic PWA e veja se funcionou. Depois instale o termux em seu celular para rodar o script, instale o Node.js no terminal e execute ``` git clone https://github.com/NOXY-JS/ICEbot-GARTIC-net.git ``` para clonar o repositório então digite ``` cd ICEbot-GARTIC-net ``` e depois execute o comando node para executar ``` .load bot__.js ``` e o bot estará ativado.
 
 Para trocar o avatar do bot, clique em "select avatar" para selecionar o avatar do seu bot.
 
