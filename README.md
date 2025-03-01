@@ -1,3 +1,4 @@
+
 ### ICEbot GARTIC.NET (PWA)
 
 Como usar: 
@@ -31,4 +32,11 @@ ANSWER: envia uma mensagem no chat de resposta do jogo
 BROADCAST: envia mensagens em ambos os chats de resposta e de mensagem
 
 EXIT: remove os bots da sala
+
+Imagens do bot
+
+Listas de avatar
+![Screenshot_20250301-124145_Kiwi Browser](https://github.com/user-attachments/assets/ca2ccfd2-f529-4260-a2ee-79c86a4b087e)
+![Screenshot_20250301-124148_Kiwi Browser](https://github.com/user-attachments/assets/95250fbf-99bb-4aa9-985c-5de9ac947555)
+
 
