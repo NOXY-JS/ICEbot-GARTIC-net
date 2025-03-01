@@ -9,11 +9,17 @@ Atualize a página do gartic e comece a usar o bot pra ver se funcionou.
 
 O bot só funcionará se o script de bot estiver rodando no terminal, caso contrário não terá efeito algum sobre o jogo.
 
+Esse script foi feito especificamente para os usuários do gartic de celular (Gartic PWA), mas ele também pode funcionar no outro porque os dois domínios (gartic.net e gartic.com.br) redirecionam ao mesmo jogo.
+
+
 Para trocar o avatar do bot, clique em "select avatar" para selecionar o avatar do seu bot.
 
 Existem 37 opções de avatar no jogo contando com o avatar invisível, além disso você pode selecionar um avatar aleatório clicando no ícone de geral presente na lista.
 
 Os comandos presentes nos botões: 
+
+JOIN: Você deve entrar numa sala de gartic para esse comando funcionar, clique no botão JOIN para os bots entrarem na sala.
+
 
 REPORT: denuncia o desenho
 
