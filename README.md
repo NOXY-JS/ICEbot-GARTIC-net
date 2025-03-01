@@ -1,7 +1,7 @@
 
 ## ICEbot GARTIC.NET (PWA)
 
-Como usar: 
+# Como usar: 
 
 Para usar o bot, baixe o arquivo .ZIP presente no repositório e depois use algum navegador que possua suporte para extensões no seu celular (exemplo: Kiwi Browser, Firefox) e quando tiver instalado a extensão nele, vá para o gartic PWA e veja se funcionou. Depois instale o termux em seu celular para rodar o script, instale o Node.js no terminal e execute 
 ``` 
@@ -49,7 +49,7 @@ ANSWER: envia uma mensagem no chat de resposta do jogo
 BROADCAST: envia mensagens em ambos os chats de resposta e de mensagem
 
 EXIT: remove os bots da sala
-
+# Lista das salas
 Há ainda um script em python no repositório, você pode rodar ele para ver todas as salas incluindo a senha delas e se elas precisam de ser cadastrado para entrar ou não.
 Primeiro você deve instalar as dependências caso não tenha instalado ainda em seu terminal no python:
 
@@ -68,7 +68,7 @@ python cf.py
 
 E você poderá ver todas as salas e a senha delas toda vez que rodar esse script.
 
-Imagens do bot
+# Imagens do bot
 
 Listas de avatar
 ![Screenshot_20250301-124145_Kiwi Browser](https://github.com/user-attachments/assets/ca2ccfd2-f529-4260-a2ee-79c86a4b087e)
@@ -80,4 +80,7 @@ Usando os comandos dos botões
 ![Screenshot_20250301-124159_Kiwi Browser](https://github.com/user-attachments/assets/340905c2-6e0d-4865-a064-b729f292b61c)
 ![Screenshot_20250301-124201_Kiwi Browser](https://github.com/user-attachments/assets/e340f105-65a4-4ade-8ed4-ab25297ff7b4)
 
+Vendo as salas
+
+![Screenshot_20250301-151640_Termux](https://github.com/user-attachments/assets/4897dbc4-784c-4474-9133-d5a1251bc512)
 
